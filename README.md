@@ -1,5 +1,5 @@
 # fcc_timecalculator
-project 2
+fcc project 2
 
 # Time Calculator
 
