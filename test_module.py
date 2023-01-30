@@ -65,4 +65,14 @@ class UnitTests(unittest.TestCase):
         self.assertEqual(actual, expected, 'Expected calling "add_time()" with "8:16 PM", "466:02", "tuesday" to return "6:18 AM, Monday (20 days later)"')
 
 if __name__ == "__main__":
-    unittest.main()
+    unittest.main()                      #The last block helps to run the test by running the file through the command line.
+
+    
+    
+    
+    
+#assertEqual() – This statement is used to check if the result obtained is equal to the expected result.
+#assertTrue() / assertFalse() – This statement is used to verify if a given statement is true or false.
+#assertRaises() – This statement is used to raise a specific exception.
+#Unit Testing is the first level of software testing where the smallest testable parts of a software are tested. This is used to validate that each unit of the software performs as designed.
+#The unittest test framework is python’s xUnit style framework.
